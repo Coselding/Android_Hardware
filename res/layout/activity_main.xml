@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/video_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="视 频 播 放" >
+        </Button>
+
+        <Button
+            android:id="@+id/camera_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="拍  照" >
+        </Button>
+
+        <Button
+            android:id="@+id/audiorecord_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="录  音" >
+        </Button>
+
+        <Button
+            android:id="@+id/brightness_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="屏 幕 亮 度" >
+        </Button>
+
+        <Button
+            android:id="@+id/dial_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="打 电 话" >
+        </Button>
+
+        <Button
+            android:id="@+id/flashlight_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="手 电 筒" >
+        </Button>
+
+        <Button
+            android:id="@+id/music_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="音  乐" >
+        </Button>
+
+        <Button
+            android:id="@+id/vibrate_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="震  动" >
+        </Button>
+
+        <Button
+            android:id="@+id/sensor_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="传 感 器" >
+        </Button>
+
+        <Button
+            android:id="@+id/location_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="位  置" >
+        </Button>
+
+        <Button
+            android:id="@+id/led_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="L E D" >
+        </Button>
+
+        <Button
+            android:id="@+id/headset_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="耳 机 状 态" >
+        </Button>
+    </LinearLayout>
+
+</ScrollView>

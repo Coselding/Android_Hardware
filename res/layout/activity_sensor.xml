@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/sensor_light"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="光 线 感 应" />
+
+            <Button
+                android:id="@+id/sensor_gravity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="重力 感 应" />
+
+            <Button
+                android:id="@+id/sensor_presure"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="压力感 应" />
+
+            <Button
+                android:id="@+id/sensor_gycoscope"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="陀螺感应" />
+
+            <Button
+                android:id="@+id/sensor_linear_acceleration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="线性加速度" />
+
+            <Button
+                android:id="@+id/sensor_orientation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="方向 感 应" />
+
+            <Button
+                android:id="@+id/sensor_acceleration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="加速度感 应" />
+
+            <Button
+                android:id="@+id/sensor_proximity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="距离感 应" />
+
+            <Button
+                android:id="@+id/sensor_ambient_temperature"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="周围温度 感 应" />
+
+            <Button
+                android:id="@+id/sensor_game_rotation_vector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="游戏旋转向量" />
+
+            <Button
+                android:id="@+id/sensor_magnetic_field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="磁极感 应" />
+
+            <Button
+                android:id="@+id/sensor_step_counter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="记 步 感 应" />
+
+            <Button
+                android:id="@+id/sensor_rotation_vector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="旋转向量" />
+
+            <Button
+                android:id="@+id/sensor_temperature"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="温 度 感 应" />
+
+            <Button
+                android:id="@+id/sensor_relative_humidity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="湿 度 感 应" />
+
+            <Button
+                android:id="@+id/sensor_significant_motion"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="手势识别" />
+
+            <Button
+                android:id="@+id/sensor_step_detector"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="步数探测器" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

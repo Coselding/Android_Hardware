@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/example/android_hardware/AudioRecordActivity.java=UTF-8
+encoding//src/com/example/android_hardware/BrightnessActivity.java=UTF-8
+encoding//src/com/example/android_hardware/CameraActivity.java=UTF-8
+encoding//src/com/example/android_hardware/DialActivity.java=UTF-8
+encoding//src/com/example/android_hardware/FlashLightActivity.java=UTF-8
+encoding//src/com/example/android_hardware/GPSLocationActivity.java=UTF-8
+encoding//src/com/example/android_hardware/HeadSetActivity.java=UTF-8
+encoding//src/com/example/android_hardware/LEDLampActivity.java=UTF-8
+encoding//src/com/example/android_hardware/MainActivity.java=UTF-8
+encoding//src/com/example/android_hardware/MediaButtonReceiver.java=UTF-8
+encoding//src/com/example/android_hardware/MusicActivity.java=UTF-8
+encoding//src/com/example/android_hardware/VibrateActivity.java=UTF-8
+encoding//src/com/example/android_hardware/VideoActivity.java=UTF-8
+encoding//src/com/example/android_hardware/sensor/SensorActivity.java=UTF-8
+encoding//src/com/example/android_hardware/util/BrightnessTools.java=UTF-8

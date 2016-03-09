@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Hardware</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show">拨打手机号码</string>
+    <string name="dial">拨打</string>
+    <string name="sms_show">发送短信号码</string>
+    <string name="sms_content">发送短信内容</string>
+    <string name="send_sms">发送短信</string>
+    <string name="sendsuccess">发送成功</string>
+
+</resources>
